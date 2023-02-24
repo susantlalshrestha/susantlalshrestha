@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 , I am Susant.
 
 <!--
 **susantlalshrestha/susantlalshrestha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :mailbox: How to reach me:
+- :mailbox: You can reach on:
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:susantlalshrestha@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/susantlalshrestha/)
