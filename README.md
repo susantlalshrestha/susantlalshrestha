@@ -18,7 +18,7 @@ I bring clean, maintainable code, strong problem-solving skills, and a deep comm
 
 Let’s connect — whether it’s to talk tech, collaborate, or simply share ideas. I’d love to chat!
 
-- :mailbox: You can reach on:
+### :mailbox: You can reach on:
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:susantlalshrestha@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/susantlalshrestha/)
